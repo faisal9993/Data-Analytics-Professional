@@ -26,7 +26,7 @@ Contributed to the development of data-driven solutions to optimize business pro
 
 Certainly! Creating an online data analytics portfolio is a great way to showcase your skills and experience. Below is a template that you can use as a starting point. Customize it with your own information, projects, and details to make it uniquely yours.
 
-[Your Full Name]
+
 Data Analytics Professional
 About Me
 I am a highly motivated and detail-oriented data analyst with a passion for extracting meaningful insights from complex datasets. My expertise lies in data visualization, statistical analysis, and machine learning. I thrive in dynamic environments and am constantly seeking opportunities to enhance my skills and contribute to impactful projects.
@@ -41,16 +41,14 @@ Excel, Tableau
 Data Cleaning and Preprocessing
 Dashboard Development
 Education
-[Your University]
-
-Bachelor of Science in [Your Major], [Year of Graduation]
+Master of business admistration 
 Professional Experience
-Data Analyst | [Current Company], [Location] | [Month/Year Started] - Present
+Data Analyst | AH company  Lahore Pakistan  started to November2023 to - Present
 Conduct exploratory data analysis to identify trends and patterns.
 Develop and maintain interactive dashboards using Tableau for real-time data monitoring.
 Collaborate with cross-functional teams to provide data-driven insights for decision-making.
 Implement machine learning models to predict key business metrics.
-Data Intern | [Previous Company], [Location] | [Month/Year Started] - [Month/Year Ended]
+
 Assisted in data cleaning and preprocessing tasks to ensure data quality.
 Created visualizations and reports to communicate insights to stakeholders.
 Contributed to the development of data-driven solutions to optimize business processes.
